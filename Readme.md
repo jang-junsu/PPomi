@@ -1,6 +1,19 @@
-PPomi 2017.11 Global Innovator Festa
+# PPomi 第３回GIF(Global Innovator Festa)大会(チーム)
 
-MakerTon(IoT)
+## 主催機関 : 大邱(EXCO) - マイクロソフト
+## 大会の概要 : マイクロソフトとともにするIoTコンテスト
+## 開発期間 : 一週間(2017.10.30 ~ 2017.11.04)
+
+1 使用技術
+ - Azure
+ - PHP
+ - Mysql
+ - Python
+ - RaspberryPi
+ - firebase
+ 
+ 
+
 
 Demo
 
