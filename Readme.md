@@ -18,10 +18,6 @@
  
 4 機能動画
 
-Demo
-
-
-
-Demo (Youtube) : https://youtu.be/5DH2yKmZitU
-		 https://youtu.be/NT4bUG3TRr4
-		 https://youtu.be/MDVPfxKGK5E
+Demo (Youtube) : - https://youtu.be/5DH2yKmZitU
+		 - https://youtu.be/NT4bUG3TRr4
+		 - https://youtu.be/MDVPfxKGK5E
